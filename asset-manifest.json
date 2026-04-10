@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Samuel-s/static/css/main.f6fcc274.css",
+    "main.js": "/Samuel-s/static/js/main.06e9c3c9.js",
+    "index.html": "/Samuel-s/index.html",
+    "main.f6fcc274.css.map": "/Samuel-s/static/css/main.f6fcc274.css.map",
+    "main.06e9c3c9.js.map": "/Samuel-s/static/js/main.06e9c3c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6fcc274.css",
+    "static/js/main.06e9c3c9.js"
+  ]
+}
